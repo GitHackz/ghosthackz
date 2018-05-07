@@ -1,0 +1,13 @@
+{
+  "name": "ghosthackz",
+  "version": "1.0.0",
+  "description": "GhostHackz's Desktop Application",
+  "main": "main.js",
+  "repository": "https://github.com/GitHackz/ghosthackz.git",
+  "author": "GitHackz <githackz@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "electron": "^2.0.0"
+  }
+}
